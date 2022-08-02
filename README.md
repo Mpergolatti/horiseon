@@ -18,6 +18,12 @@ I took an already working HTML / CSS site and implemented changes in regards to 
 
 * Changed benefits section "p" element to center text for better readability
 
+* Added alt tags and aria-label tags to ensure accessibility was readable
+
 ## Screenshot of landing page that above changes were made to.
 
 ![Landing Page Screenshot](./assets/images/horiseon-landing-screenshot.png)
+
+## Live Link to website
+
+Live Link at GitHub: [Horiseon - Search Engine Management](https://mpergolatti.github.io/horiseon/).
