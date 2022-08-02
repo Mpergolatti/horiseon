@@ -71,6 +71,12 @@ p {
 
 /* Start Services Section */
 
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -97,12 +103,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 /* End Services Section */
@@ -154,3 +154,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/* End Footer Section */
